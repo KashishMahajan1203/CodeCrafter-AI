@@ -3,7 +3,6 @@
 An **AI-powered Frontend Component Generator** built with **ReactJS, Vite, TailwindCSS, and Google Gemini API**, designed to create customizable UI components instantly.
 This application converts **natural language prompts** into fully functional code snippets using HTML, CSS, Tailwind, Bootstrap, or JavaScript — and lets you **preview, copy, and export** components seamlessly.
 
-[⚡ Experience the AI Component Forge!](https://github.com/KashishMahajan1203/)
 
 ---
 
