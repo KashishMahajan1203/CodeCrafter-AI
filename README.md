@@ -3,6 +3,7 @@
 An **AI-powered Frontend Component Generator** built with **ReactJS, Vite, TailwindCSS, and Google Gemini API**, designed to create customizable UI components instantly.
 This application converts **natural language prompts** into fully functional code snippets using HTML, CSS, Tailwind, Bootstrap, or JavaScript — and lets you **preview, copy, and export** components seamlessly.
 
+[⚡ Experience the AI Component Forge!](https://codecrafterai.netlify.app/)
 
 ---
 
@@ -126,11 +127,11 @@ npm run dev
 
 ### 🧩 Code Preview
 
-![Monaco editor with live rendered output]()
+![Monaco editor with live rendered output](https://res.cloudinary.com/dfacldueh/image/upload/v1762319301/Screenshot_2025-11-05_103734_jakrda.png)
 
 ### ⚙️ Gemini Integration
 
-![AI-generated code rendered dynamically]()
+![AI-generated code rendered dynamically](https://res.cloudinary.com/dfacldueh/image/upload/v1762319302/Screenshot_2025-11-05_103758_fqbnlj.png)
 
 
 ---
